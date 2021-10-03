@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201737999610",
+    "project_id": "ushopus-4987b",
+    "storage_bucket": "ushopus-4987b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201737999610:android:9e871e9dc63a0c5b412543",
+        "android_client_info": {
+          "package_name": "com.example.ushopee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201737999610-okaa0sfubq38bkuhmvg3kat9p1p53doh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_t7ZzPNXcqeJmDfFL4MPdNtU3TmkBoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201737999610-okaa0sfubq38bkuhmvg3kat9p1p53doh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
